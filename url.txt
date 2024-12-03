@@ -1,1 +1,1 @@
-https://bike-sharing-data-faradissa.streamlit.app/
+https://bike-sharing-data-analysis-faradissa.streamlit.app/
